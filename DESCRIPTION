@@ -1,5 +1,5 @@
 Package: reportgeneratorR
-Title: What the Package Does (One Line, Title Case)
+Title: The Start of an R package
 Version: 0.0.0.9000
 Authors@R: 
     person("Michael", "D", , role = c("aut"),
